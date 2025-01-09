@@ -356,3 +356,5 @@ plt.plot(lstm_fitted, label='Fitted')
 plt.title(f'{business_model} - {haul} - {load}\n LSTM-{exog_variable} Fit')
 plt.legend()
 plt.show()
+
+#Test
